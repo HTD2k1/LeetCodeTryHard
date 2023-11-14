@@ -1,0 +1,6 @@
+# LeetCode Rider extension
+/leetcode/
+
+# Project User Setting on Rider
+LeetCode.sln.DotSettings.user
+.DS_Store
