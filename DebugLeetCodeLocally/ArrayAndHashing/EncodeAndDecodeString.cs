@@ -1,8 +1,6 @@
-// Codec is the machine name that is used in Leetcode problem for the class that does encoding and decoding string.
 
 using System.Text;
 using Microsoft.Extensions.Primitives;
-
 public class Codec
 {
     // Encodes a list of strings to a single string by using non-ASCII characters.
