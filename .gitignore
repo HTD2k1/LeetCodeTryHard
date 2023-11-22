@@ -2,6 +2,8 @@
 /leetcode/
 /DebugLeetCodeLocally.Tests/bin/
 /DebugLeetCodeLocally.Tests/obj/
+/DebugLeetCodeLocally/bin/
+/DebugLeetCodeLocally/obj/
 # Project User Setting on Rider
 LeetCode.sln.DotSettings.user
 .DS_Store
