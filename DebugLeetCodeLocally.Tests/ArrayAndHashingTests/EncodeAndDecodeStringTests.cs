@@ -1,4 +1,4 @@
-public class CodecTests
+public class mCodecTests
 {
     [Fact]
     public void ExecuteUsingNonASCIICharacters_HappyPath_Success()
